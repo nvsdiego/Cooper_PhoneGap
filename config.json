@@ -1,6 +1,6 @@
 {
-    "app_id" : "coopercarga.kaptiva.com.br",
-    "appname": "Coopercarga v0.1",
+    "app_id" : "com.kaptiva.coopercarga",
+    "appname": "Coopercarga v0.2",
     "desktopappname": "Coopercarga",
     "versioncode" : "2023",
     "versionname" : "1.0",
