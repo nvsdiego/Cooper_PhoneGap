@@ -5,10 +5,10 @@
         id        = "com.kaptiva.coopercarga"
         versionCode = "20230"
         version   = "1.0">
-    <name>Coopercarga v0.1</name>
+    <name>Universidade Coopercarga</name>
 
     <description>
-        Coopercarga V0.1
+        Aplicativo Oficial da Universidade Coopercarga
     </description>
 
     <author href="http://kaptiva.com.br" email="falecom@kaptiva.com.br">
