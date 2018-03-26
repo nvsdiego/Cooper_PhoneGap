@@ -54,7 +54,7 @@ $mm-progress-bar-height: 5px !default;
  * App Branding
  */
 .mm-bglogo {
-  background-color: #000000; /* Change this to add a bg image or change color */
+  background-color: #135379; /* Change this to add a bg image or change color */
   background-repeat: no-repeat;
   background-position: center center;
   position: absolute;
@@ -2416,7 +2416,7 @@ mm-course-list-item .item-icon-left {
     background-color: $gray-light;
 
     .bar-header {
-        @include bar-style($bar-content-bg, $bar-content-border, $bar-content-text);
+        @include bar-style(background-color:#135379, $bar-content-border, $bar-content-text);
 
         .button {
             color: $bar-content-text;

@@ -10542,7 +10542,7 @@ a.button {
  * App Branding
  */
 .mm-bglogo {
-  background-color: #000000;
+  background-color: #135379;
   /* Change this to add a bg image or change color */
   background-repeat: no-repeat;
   background-position: center center;
@@ -10558,7 +10558,7 @@ a.button {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
-    background-color: #000000 	}
+    background-color: #135379 	}
   .mm-bglogo img {
     width: 60%;
     max-width: 300px;
