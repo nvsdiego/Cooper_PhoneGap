@@ -4284,7 +4284,8 @@ a.subdued {
 .bar-header {
   top: 0;
   border-top-width: 0;
-  border-bottom-width: 1px; }
+  border-bottom-width: 1px;
+  background-color: #135379;   }
   .bar-header.has-tabs-top {
     border-bottom-width: 0px;
     background-image: none; }
@@ -10542,7 +10543,7 @@ a.button {
  * App Branding
  */
 .mm-bglogo {
-  background-color: #135379;
+  background-color: #ffffff;
   /* Change this to add a bg image or change color */
   background-repeat: no-repeat;
   background-position: center center;
@@ -10558,7 +10559,7 @@ a.button {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
-    background-color: #135379 	}
+    background-color: #ffffff 	}
   .mm-bglogo img {
     width: 60%;
     max-width: 300px;
