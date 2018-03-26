@@ -118,12 +118,11 @@ a.button {
 
 // Default bar.
 .bar-content {
-  @include bar-style(background-color: #135379, $bar-content-border, $bar-content-text);
-  .button {
-    @include button-style($bar-content-bg, $bar-content-border, $bar-content-bg, $bar-content-border, $bar-content-text);
-    @include button-clear($bar-content-text, $bar-title-font-size);
-  }
-}
+  border-color: transparent;
+  background-color: #135379 !important;
+  background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
+  color: #ffffff; }
+  
 
 // Define an alternative way to set a heading in an item without using a heading tag.
 // This is done for accessibility reasons when a heading is semantically incorrect.
