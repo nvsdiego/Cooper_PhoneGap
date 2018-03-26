@@ -118,7 +118,7 @@ a.button {
 
 // Default bar.
 .bar-content {
-  @include bar-style($bar-content-bg, $bar-content-border, $bar-content-text);
+  @include bar-style(background-color: #135379, $bar-content-border, $bar-content-text);
   .button {
     @include button-style($bar-content-bg, $bar-content-border, $bar-content-bg, $bar-content-border, $bar-content-text);
     @include button-clear($bar-content-text, $bar-title-font-size);
