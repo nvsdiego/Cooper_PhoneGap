@@ -10559,9 +10559,7 @@ a.button {
   .mm-bglogo .mm-logo {
     display: table-cell;
     text-align: center;
-    vertical-align: middle;
-    background-color: #black;
-	}
+    vertical-align: middle; }
   .mm-bglogo img {
     width: 60%;
     max-width: 300px;
