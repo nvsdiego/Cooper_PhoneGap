@@ -10565,7 +10565,8 @@ a.button {
     max-width: 300px;
     display: block;
     margin: 0 auto;
-    margin-bottom: 30px; }
+    margin-bottom: 30px;
+    background-image: url("img/logo.png");	}
   .mm-bglogo .spinner {
     color: #ffffff;
     stroke: #ffffff;
