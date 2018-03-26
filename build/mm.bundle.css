@@ -10543,7 +10543,7 @@ a.button {
  * App Branding
  */
 .mm-bglogo {
-  background-color: #f9f9f9;
+  background-color: #135379;
   /* Change this to add a bg image or change color */
   background-repeat: no-repeat;
   background-position: center center;
@@ -10559,14 +10559,13 @@ a.button {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
-    background-color: #f9f9f9 	}
+    background-color: #135379 	}
   .mm-bglogo img {
     width: 60%;
     max-width: 300px;
     display: block;
     margin: 0 auto;
-    margin-bottom: 30px;
-    background-image: url("img/logo.png");	}
+    margin-bottom: 30px; }
   .mm-bglogo .spinner {
     color: #ffffff;
     stroke: #ffffff;
