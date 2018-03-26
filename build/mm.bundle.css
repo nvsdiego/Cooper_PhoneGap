@@ -10542,11 +10542,9 @@ a.button {
  * App Branding
  */
 .mm-bglogo {
-  background-image: url("../splash.png")
+  background-image: url("../splash.png");
   background-color: #135379;
   /* Change this to add a bg image or change color */
-  background: -webkit-radial-gradient(#135379, #135379);
-  background: radial-gradient(#135379, #135379);
   background-repeat: no-repeat;
   background-position: center center;
   position: absolute;
