@@ -13112,7 +13112,9 @@ mm-course-list-item div.item-icon-left.earlysubmission {
     max-width: 100%; }
   .mm-mm_login_credentials img.moodle-logo, .mm-mm_login_reconnect img.moodle-logo, .mm-mm_login_site img.moodle-logo {
     width: 90%;
-    max-width: 300px; }
+    max-width: 300px; 
+	background: #ffffff
+	}
   .mm-mm_login_credentials .box, .mm-mm_login_reconnect .box, .mm-mm_login_site .box {
     padding: 16px;
     background: #ffffff;
