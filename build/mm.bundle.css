@@ -10542,24 +10542,12 @@ a.button {
  * App Branding
  */
 .mm-bglogo {
-  background-color: #ffffff;
-  /* Change this to add a bg image or change color */
-  background: -webkit-radial-gradient(#ffffff, #ffffff);
-  background: radial-gradient(#ffffff, #ffffff);
-  background-repeat: no-repeat;
-  background-position: center center;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  display: table; }
+  background-color: #000000;}
   .mm-bglogo .mm-logo {
     display: table-cell;
     text-align: center;
-    vertical-align: middle; }
+    vertical-align: middle;
+background-color: #000000;	}
   .mm-bglogo img {
     width: 60%;
     max-width: 300px;
