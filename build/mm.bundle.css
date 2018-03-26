@@ -10541,10 +10541,11 @@ a.button {
 /**
  * App Branding
  */
-.mm-bglogo {
-  background-image: url("../splash.png");
-  background-color: #135379;
-  /* Change this to add a bg image or change color */
+/*.mm-bglogo {
+  background-color: #ff5c00;
+  /* Change this to add a bg image or change color 
+  background: -webkit-radial-gradient(#ff7600, #ff5c00);
+  background: radial-gradient(#ff7600, #ff5c00);
   background-repeat: no-repeat;
   background-position: center center;
   position: absolute;
@@ -10554,7 +10555,7 @@ a.button {
   right: 0;
   height: 100%;
   width: 100%;
-  display: table; }
+  display: table; }*/
   .mm-bglogo .mm-logo {
     display: table-cell;
     text-align: center;
