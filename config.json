@@ -15,6 +15,6 @@
     "siteurl": {"http://coopercarga.kaptiva.com.br"},
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
-    "forcedefaultlanguage": "true",
+    "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
 }
