@@ -27,20 +27,20 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>Cooper_PhoneGap/pt-br.json at master · nvsdiego/Cooper_PhoneGap</title>
+  <title>moodlemobile-phonegapbuild/pt-br.json at master · moodlehq/moodlemobile-phonegapbuild</title>
     <meta name="description" content="GitHub is where people build software. More than 27 million people use GitHub to discover, fork, and contribute to over 80 million projects.">
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
     
-    <meta property="og:image" content="https://avatars1.githubusercontent.com/u/23463807?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="nvsdiego/Cooper_PhoneGap" /><meta property="og:url" content="https://github.com/nvsdiego/Cooper_PhoneGap" /><meta property="og:description" content="Cooper_PhoneGap - Moodle Mobile repository for Phonegap builds" />
+    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/512756?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="moodlehq/moodlemobile-phonegapbuild" /><meta property="og:url" content="https://github.com/moodlehq/moodlemobile-phonegapbuild" /><meta property="og:description" content="moodlemobile-phonegapbuild - Moodle Mobile repository for Phonegap builds" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjY3MTQxODk0OmZiMjAxYzNlNDE1YmE4YTIxMjAyOTdlNmZmYjAzZDI5OWZhY2FhZTg0MDA3ZWRhZjU3ZDJhNGMxMWIxYjZmMWM=--987215e65e38de22e0580c359750418c128b2b6f">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjY3MTQxODk0OmE1NTM4N2JlNDExYzIzMWEwMjA3NGZjYjk5YzczNThiMGU3ZTU4ZDY0ZDYxNzY4N2QzNzdkZGIzMGNlMzllMDc=--3143eb94e7f8ea6ff660258fe2300f6d60fb2561">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="20E8:3708:3E0A107:7B7038B:5ADDD7D0" data-pjax-transient>
+  <meta name="request-id" content="2144:3707:2DCAF93:5C9DCEB:5ADDE0CB" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="20E8:3708:3E0A107:7B7038B:5ADDD7D0" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="23463807" /><meta name="octolytics-actor-login" content="nvsdiego" /><meta name="octolytics-actor-hash" content="08289cc44a14b6358029342ee6a01d25f58f13c9a98f6f6a4c07886324d7c0df" />
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="2144:3707:2DCAF93:5C9DCEB:5ADDE0CB" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="23463807" /><meta name="octolytics-actor-login" content="nvsdiego" /><meta name="octolytics-actor-hash" content="08289cc44a14b6358029342ee6a01d25f58f13c9a98f6f6a4c07886324d7c0df" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -67,7 +67,7 @@
     <meta name="user-login" content="nvsdiego">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="OThkY2RmZTI1M2RkMDY1NDQyNTQ4MmM5MzdiOTQyYTFhZTI2YzY2MzJhZTg4MjliZTMyMWNlMDAzZGM1ODhiMHx7InJlbW90ZV9hZGRyZXNzIjoiMTc3LjEwMi4yMzkuMTMyIiwicmVxdWVzdF9pZCI6IjIwRTg6MzcwODozRTBBMTA3OjdCNzAzOEI6NUFEREQ3RDAiLCJ0aW1lc3RhbXAiOjE1MjQ0ODgxNTMsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="ODBlNzAzNmRlMGVjZjczMjkyM2ZiMTM5MDRlMDVhNmE1ZjQwYjljYTZkZDkwZGJlMmViYzllZDI0ZDg5NTY2NHx7InJlbW90ZV9hZGRyZXNzIjoiMTc3LjEwMi4yMzkuMTMyIiwicmVxdWVzdF9pZCI6IjIxNDQ6MzcwNzoyRENBRjkzOjVDOURDRUI6NUFEREUwQ0IiLCJ0aW1lc3RhbXAiOjE1MjQ0OTA0NjMsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_SELF_SERVE,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES">
 
@@ -76,15 +76,15 @@
   <meta http-equiv="x-pjax-version" content="d5888a338278275cab3caaf364731e4a">
   
 
-      <link href="https://github.com/nvsdiego/Cooper_PhoneGap/commits/master.atom" rel="alternate" title="Recent Commits to Cooper_PhoneGap:master" type="application/atom+xml">
+      <link href="https://github.com/moodlehq/moodlemobile-phonegapbuild/commits/master.atom" rel="alternate" title="Recent Commits to moodlemobile-phonegapbuild:master" type="application/atom+xml">
 
-  <meta name="description" content="Cooper_PhoneGap - Moodle Mobile repository for Phonegap builds">
-  <meta name="go-import" content="github.com/nvsdiego/Cooper_PhoneGap git https://github.com/nvsdiego/Cooper_PhoneGap.git">
+  <meta name="description" content="moodlemobile-phonegapbuild - Moodle Mobile repository for Phonegap builds">
+  <meta name="go-import" content="github.com/moodlehq/moodlemobile-phonegapbuild git https://github.com/moodlehq/moodlemobile-phonegapbuild.git">
 
-  <meta name="octolytics-dimension-user_id" content="23463807" /><meta name="octolytics-dimension-user_login" content="nvsdiego" /><meta name="octolytics-dimension-repository_id" content="126376112" /><meta name="octolytics-dimension-repository_nwo" content="nvsdiego/Cooper_PhoneGap" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="true" /><meta name="octolytics-dimension-repository_parent_id" content="36915216" /><meta name="octolytics-dimension-repository_parent_nwo" content="moodlehq/moodlemobile-phonegapbuild" /><meta name="octolytics-dimension-repository_network_root_id" content="36915216" /><meta name="octolytics-dimension-repository_network_root_nwo" content="moodlehq/moodlemobile-phonegapbuild" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="true" />
+  <meta name="octolytics-dimension-user_id" content="512756" /><meta name="octolytics-dimension-user_login" content="moodlehq" /><meta name="octolytics-dimension-repository_id" content="36915216" /><meta name="octolytics-dimension-repository_nwo" content="moodlehq/moodlemobile-phonegapbuild" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="36915216" /><meta name="octolytics-dimension-repository_network_root_nwo" content="moodlehq/moodlemobile-phonegapbuild" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/nvsdiego/Cooper_PhoneGap/blob/master/build/lang/pt-br.json" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/moodlehq/moodlemobile-phonegapbuild/blob/master/build/lang/pt-br.json" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -133,9 +133,9 @@
       <div class="d-flex">
             <div class="">
               <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scoped-search-url="/nvsdiego/Cooper_PhoneGap/search" data-unscoped-search-url="/search" action="/nvsdiego/Cooper_PhoneGap/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scoped-search-url="/moodlehq/moodlemobile-phonegapbuild/search" data-unscoped-search-url="/search" action="/moodlehq/moodlemobile-phonegapbuild/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
     <label class="form-control header-search-wrapper  js-chromeless-input-container">
-          <a class="header-search-scope no-underline" href="/nvsdiego/Cooper_PhoneGap/blob/master/build/lang/pt-br.json">This repository</a>
+          <a class="header-search-scope no-underline" href="/moodlehq/moodlemobile-phonegapbuild/blob/master/build/lang/pt-br.json">This repository</a>
       <input type="text"
         class="form-control header-search-input  js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s,/"
@@ -255,7 +255,7 @@
           Settings
         </a></li>
 
-        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="OfTsJ6UQYYEZGIyJ+POnQKdTTjj1Wq6zs9oiRNvR9EStZSvhbT/jZLQzRgp3h73De9tQSnEqqab0ZX799qdLQw==" />
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Y8sNqSiHuAOrB6Ny4bMXclcbv4Or6kenjSIf81yIdPP3Wspv4Kg65gYsafFuxw3xi5Oh8S+aQLLKnUNKcf7L9A==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -267,7 +267,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="+y6u5+osGz84K/B0RM0pl16sViBYYnAi3uTUmVReG0Bvv2khIgOZ2pUAOvfLuTMUgiRIUtwSdzeZW4ggeSikRw==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="18wKqaEYAsx+gYZ5gC79s/Nd/txlSFGNjuDmihXXQbpDXc1vaTeAKdOqTPoPWucwL9XgruE4VpjJX7ozOKH+vQ==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -296,6 +296,8 @@
 
 
 
+  
+
 
 
   <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav  ">
@@ -303,10 +305,10 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="G65f4GmY7iU1c06FAyBfomlpj0YTnwVAwNkIxdBf6UMTFOlgXDJ7EcOYxjph9nUwXfOI/OHOCkoYE854reaQhw==" />      <input type="hidden" name="repository_id" id="repository_id" value="126376112" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="vDaA6x2Dl2gRl8arD5jSzj+GqGVlkOcHOduKiuz8oa+0jDZrKCkCXOd8ThRtTvhcCxyv35fB6A3hEUw3kUXYaw==" />      <input type="hidden" name="repository_id" id="repository_id" value="36915216" class="form-control" />
 
         <div class="select-menu js-menu-container js-select-menu">
-          <a href="/nvsdiego/Cooper_PhoneGap/subscription"
+          <a href="/moodlehq/moodlemobile-phonegapbuild/subscription"
             class="btn btn-sm btn-with-count select-menu-button js-menu-target"
             role="button"
             aria-haspopup="true"
@@ -319,9 +321,9 @@
             </span>
           </a>
           <a class="social-count js-social-count"
-            href="/nvsdiego/Cooper_PhoneGap/watchers"
-            aria-label="0 users are watching this repository">
-            0
+            href="/moodlehq/moodlemobile-phonegapbuild/watchers"
+            aria-label="34 users are watching this repository">
+            34
           </a>
 
         <div class="select-menu-modal-holder">
@@ -383,52 +385,52 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/nvsdiego/Cooper_PhoneGap/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="yIQaRTKqYrTGDFMXIHCzrMeOmMyRW2x9zkXHKLUUJKHGUz3bMlfh4lJnE0xgJttP66dvh13dpu69VdmHPYlWbw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/moodlehq/moodlemobile-phonegapbuild/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Mrd96uCwLUgwvfXHkRI9NVEgLNnSB1ioCy+qmz4McQv/SZmdBFQOBk7zaTNcuT3IyV7SAVomBg1Opv9xEAZEfQ==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Unstar this repository" title="Unstar nvsdiego/Cooper_PhoneGap"
+        aria-label="Unstar this repository" title="Unstar moodlehq/moodlemobile-phonegapbuild"
         data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
         Unstar
       </button>
-        <a class="social-count js-social-count" href="/nvsdiego/Cooper_PhoneGap/stargazers"
-           aria-label="0 users starred this repository">
-          0
+        <a class="social-count js-social-count" href="/moodlehq/moodlemobile-phonegapbuild/stargazers"
+           aria-label="77 users starred this repository">
+          77
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/nvsdiego/Cooper_PhoneGap/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="rz1QX0U0uUiH0xvy720CKj+5zM7n9MkZ5CSDVk06JAw7IPPjfQN2iyHF9faITriAl7ebjgpGAeUU/TBFvLQvuA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/moodlehq/moodlemobile-phonegapbuild/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="rqSjuO2uCLngwagGhRXtnmRD6fLpNId9sZSAr1Dod+GxVKr2v4LpVHRDUxsXzhLXaYsd5InDKTOeYb/tMIw1TQ==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Star this repository" title="Star nvsdiego/Cooper_PhoneGap"
+        aria-label="Star this repository" title="Star moodlehq/moodlemobile-phonegapbuild"
         data-ga-click="Repository, click star button, action:blob#show; text:Star">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
         Star
       </button>
-        <a class="social-count js-social-count" href="/nvsdiego/Cooper_PhoneGap/stargazers"
-           aria-label="0 users starred this repository">
-          0
+        <a class="social-count js-social-count" href="/moodlehq/moodlemobile-phonegapbuild/stargazers"
+           aria-label="77 users starred this repository">
+          77
         </a>
 </form>  </div>
 
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/nvsdiego/Cooper_PhoneGap/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="YGFzyuh9Zrz8iejGZXUDwEzlNVOynQdD8I/bmr3rV3kyvjKr52mV6mU/4Ba7dRoFx25uUXUQSL6N3W30YQ/myA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/moodlehq/moodlemobile-phonegapbuild/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="zCEqxNFMELHRoXP/OsHnsP5VWI9xxM0KnAQM9Qj1RSni7BmleVV3jB62ONJ1uM3nLsqDPLx2LyjdEysIJZr9Gw==" />
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
                 data-ga-click="Repository, show fork modal, action:blob#show; text:Fork"
-                title="Fork your own copy of nvsdiego/Cooper_PhoneGap to your account"
-                aria-label="Fork your own copy of nvsdiego/Cooper_PhoneGap to your account">
+                title="Fork your own copy of moodlehq/moodlemobile-phonegapbuild to your account"
+                aria-label="Fork your own copy of moodlehq/moodlemobile-phonegapbuild to your account">
               <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
               Fork
             </button>
 </form>
-    <a href="/nvsdiego/Cooper_PhoneGap/network" class="social-count"
+    <a href="/moodlehq/moodlemobile-phonegapbuild/network" class="social-count"
        aria-label="496 users forked this repository">
       496
     </a>
@@ -436,14 +438,11 @@
 </ul>
 
       <h1 class="public ">
-  <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-  <span class="author" itemprop="author"><a class="url fn" rel="author" href="/nvsdiego">nvsdiego</a></span><!--
+  <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+  <span class="author" itemprop="author"><a class="url fn" rel="author" href="/moodlehq">moodlehq</a></span><!--
 --><span class="path-divider">/</span><!--
---><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/nvsdiego/Cooper_PhoneGap">Cooper_PhoneGap</a></strong>
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/moodlehq/moodlemobile-phonegapbuild">moodlemobile-phonegapbuild</a></strong>
 
-    <span class="fork-flag">
-      <span class="text">forked from <a href="/moodlehq/moodlemobile-phonegapbuild">moodlehq/moodlemobile-phonegapbuild</a></span>
-    </span>
 </h1>
 
     </div>
@@ -455,7 +454,7 @@
      data-pjax="#js-repo-pjax-container">
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /nvsdiego/Cooper_PhoneGap" href="/nvsdiego/Cooper_PhoneGap">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /moodlehq/moodlemobile-phonegapbuild" href="/moodlehq/moodlemobile-phonegapbuild">
       <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
       <span itemprop="name">Code</span>
       <meta itemprop="position" content="1">
@@ -463,28 +462,21 @@
 
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /nvsdiego/Cooper_PhoneGap/pulls" href="/nvsdiego/Cooper_PhoneGap/pulls">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /moodlehq/moodlemobile-phonegapbuild/pulls" href="/moodlehq/moodlemobile-phonegapbuild/pulls">
       <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
       <span itemprop="name">Pull requests</span>
-      <span class="Counter">0</span>
+      <span class="Counter">19</span>
       <meta itemprop="position" content="3">
 </a>  </span>
 
-    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /nvsdiego/Cooper_PhoneGap/projects" href="/nvsdiego/Cooper_PhoneGap/projects">
-      <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
-      Projects
-      <span class="Counter" >0</span>
-</a>
 
 
-  <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse /nvsdiego/Cooper_PhoneGap/pulse" href="/nvsdiego/Cooper_PhoneGap/pulse">
+
+  <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse /moodlehq/moodlemobile-phonegapbuild/pulse" href="/moodlehq/moodlemobile-phonegapbuild/pulse">
     <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
     Insights
 </a>
-    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_settings repo_branch_settings hooks integration_installations repo_keys_settings /nvsdiego/Cooper_PhoneGap/settings" href="/nvsdiego/Cooper_PhoneGap/settings">
-      <svg class="octicon octicon-gear" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 8.77v-1.6l-1.94-.64-.45-1.09.88-1.84-1.13-1.13-1.81.91-1.09-.45-.69-1.92h-1.6l-.63 1.94-1.11.45-1.84-.88-1.13 1.13.91 1.81-.45 1.09L0 7.23v1.59l1.94.64.45 1.09-.88 1.84 1.13 1.13 1.81-.91 1.09.45.69 1.92h1.59l.63-1.94 1.11-.45 1.84.88 1.13-1.13-.92-1.81.47-1.09L14 8.75v.02zM7 11c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg>
-      Settings
-</a>
+
 </nav>
 
 
@@ -494,9 +486,9 @@
   <div class="repository-content ">
 
     
-  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/nvsdiego/Cooper_PhoneGap/blob/7160cd5292dd12db472a0f0a2e386293dbf61ab2/build/lang/pt-br.json">Permalink</a>
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/moodlehq/moodlemobile-phonegapbuild/blob/01dd69cf3e2f913d59ef3e3b7781dc1eb6ed351c/build/lang/pt-br.json">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:9d5a352468b9306b5ddf11dddb46ce14 -->
+  <!-- blob contrib key: blob_contributors:v21:1669a91e4ceb198b3e82f2da9d125180 -->
 
   <div class="file-navigation">
     
@@ -518,12 +510,12 @@
 
       <div class="select-menu-filters">
         <div class="select-menu-text-filter">
-          <input type="text" aria-label="Find or create a branch…" id="context-commitish-filter-field" class="form-control js-filterable-field js-navigation-enable" placeholder="Find or create a branch…">
+          <input type="text" aria-label="Filter branches/tags" id="context-commitish-filter-field" class="form-control js-filterable-field js-navigation-enable" placeholder="Filter branches/tags">
         </div>
         <div class="select-menu-tabs">
           <ul>
             <li class="select-menu-tab">
-              <a href="#" data-tab-filter="branches" data-filter-placeholder="Find or create a branch…" class="js-select-menu-tab" role="tab">Branches</a>
+              <a href="#" data-tab-filter="branches" data-filter-placeholder="Filter branches/tags" class="js-select-menu-tab" role="tab">Branches</a>
             </li>
             <li class="select-menu-tab">
               <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tag…" class="js-select-menu-tab" role="tab">Tags</a>
@@ -538,7 +530,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/nvsdiego/Cooper_PhoneGap/blob/android/build/lang/pt-br.json"
+               href="/moodlehq/moodlemobile-phonegapbuild/blob/android/build/lang/pt-br.json"
                data-name="android"
                data-skip-pjax="true"
                rel="nofollow">
@@ -548,7 +540,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/nvsdiego/Cooper_PhoneGap/blob/integration/build/lang/pt-br.json"
+               href="/moodlehq/moodlemobile-phonegapbuild/blob/integration/build/lang/pt-br.json"
                data-name="integration"
                data-skip-pjax="true"
                rel="nofollow">
@@ -558,7 +550,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/nvsdiego/Cooper_PhoneGap/blob/ios/build/lang/pt-br.json"
+               href="/moodlehq/moodlemobile-phonegapbuild/blob/ios/build/lang/pt-br.json"
                data-name="ios"
                data-skip-pjax="true"
                rel="nofollow">
@@ -568,17 +560,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/nvsdiego/Cooper_PhoneGap/blob/iosPG/build/lang/pt-br.json"
-               data-name="iosPG"
-               data-skip-pjax="true"
-               rel="nofollow">
-              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
-              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
-                iosPG
-              </span>
-            </a>
-            <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/nvsdiego/Cooper_PhoneGap/blob/learn-moodle-android/build/lang/pt-br.json"
+               href="/moodlehq/moodlemobile-phonegapbuild/blob/learn-moodle-android/build/lang/pt-br.json"
                data-name="learn-moodle-android"
                data-skip-pjax="true"
                rel="nofollow">
@@ -588,7 +570,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/nvsdiego/Cooper_PhoneGap/blob/learn-moodle-ios/build/lang/pt-br.json"
+               href="/moodlehq/moodlemobile-phonegapbuild/blob/learn-moodle-ios/build/lang/pt-br.json"
                data-name="learn-moodle-ios"
                data-skip-pjax="true"
                rel="nofollow">
@@ -598,7 +580,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/nvsdiego/Cooper_PhoneGap/blob/learn-moodle/build/lang/pt-br.json"
+               href="/moodlehq/moodlemobile-phonegapbuild/blob/learn-moodle/build/lang/pt-br.json"
                data-name="learn-moodle"
                data-skip-pjax="true"
                rel="nofollow">
@@ -608,7 +590,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/nvsdiego/Cooper_PhoneGap/blob/master/build/lang/pt-br.json"
+               href="/moodlehq/moodlemobile-phonegapbuild/blob/master/build/lang/pt-br.json"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -618,7 +600,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/nvsdiego/Cooper_PhoneGap/blob/v3.5.0/build/lang/pt-br.json"
+               href="/moodlehq/moodlemobile-phonegapbuild/blob/v3.5.0/build/lang/pt-br.json"
                data-name="v3.5.0"
                data-skip-pjax="true"
                rel="nofollow">
@@ -629,16 +611,7 @@
             </a>
         </div>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" action="/nvsdiego/Cooper_PhoneGap/branches" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0RLvjzUd6j5swi9bpILUuBq8uJLbF/AM6wb8OyAi0kMYf5dE12nTKnin/bsBOY0KqA4Z4Zhon9OsWgAja76NUg==" />
-          <svg class="octicon octicon-git-branch select-menu-item-icon" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-            <div class="select-menu-item-text">
-              <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
-              <span class="description">from ‘master’</span>
-            </div>
-            <input type="hidden" name="name" id="name" class="js-new-item-value">
-            <input type="hidden" name="branch" id="branch" value="master">
-            <input type="hidden" name="path" id="path" value="build/lang/pt-br.json">
-</form>
+          <div class="select-menu-no-results">Nothing to show</div>
       </div>
 
       <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
@@ -655,7 +628,7 @@
 </div>
 
     <div class="BtnGroup float-right">
-      <a href="/nvsdiego/Cooper_PhoneGap/find/master"
+      <a href="/moodlehq/moodlemobile-phonegapbuild/find/master"
             class="js-pjax-capture-input btn btn-sm BtnGroup-item"
             data-pjax
             data-hotkey="t">
@@ -670,12 +643,12 @@
       </clipboard-copy>
     </div>
     <div id="blob-path" class="breadcrumb">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/nvsdiego/Cooper_PhoneGap"><span>Cooper_PhoneGap</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/nvsdiego/Cooper_PhoneGap/tree/master/build"><span>build</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/nvsdiego/Cooper_PhoneGap/tree/master/build/lang"><span>lang</span></a></span><span class="separator">/</span><strong class="final-path">pt-br.json</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/moodlehq/moodlemobile-phonegapbuild"><span>moodlemobile-phonegapbuild</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/moodlehq/moodlemobile-phonegapbuild/tree/master/build"><span>build</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/moodlehq/moodlemobile-phonegapbuild/tree/master/build/lang"><span>lang</span></a></span><span class="separator">/</span><strong class="final-path">pt-br.json</strong>
     </div>
   </div>
 
 
-  <include-fragment src="/nvsdiego/Cooper_PhoneGap/contributors/master/build/lang/pt-br.json" class="commit-tease">
+  <include-fragment src="/moodlehq/moodlemobile-phonegapbuild/contributors/master/build/lang/pt-br.json" class="commit-tease">
     <div>
       Fetching contributors&hellip;
     </div>
@@ -692,27 +665,27 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/nvsdiego/Cooper_PhoneGap/raw/master/build/lang/pt-br.json">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/nvsdiego/Cooper_PhoneGap/blame/master/build/lang/pt-br.json">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/nvsdiego/Cooper_PhoneGap/commits/master/build/lang/pt-br.json">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/moodlehq/moodlemobile-phonegapbuild/raw/master/build/lang/pt-br.json">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/moodlehq/moodlemobile-phonegapbuild/blame/master/build/lang/pt-br.json">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/moodlehq/moodlemobile-phonegapbuild/commits/master/build/lang/pt-br.json">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
-           href="x-github-client://openRepo/https://github.com/nvsdiego/Cooper_PhoneGap?branch=master&amp;filepath=build%2Flang%2Fpt-br.json"
+           href="x-github-client://openRepo/https://github.com/moodlehq/moodlemobile-phonegapbuild?branch=master&amp;filepath=build%2Flang%2Fpt-br.json"
            aria-label="Open this file in GitHub Desktop"
            data-ga-click="Repository, open with desktop, type:windows">
             <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/nvsdiego/Cooper_PhoneGap/edit/master/build/lang/pt-br.json" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ILoSSy/wdA5xdv4Q5CQJBESqMMhbbRyO/+6onoELMGlihZnB8nhRxU7bzELNWulljC7CDg+cexEFkvgvcR4ieQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/moodlehq/moodlemobile-phonegapbuild/edit/master/build/lang/pt-br.json" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0eZPnjoV+T5dhNun0b6BWLNjI2I6PlRpGZI8N84D/4KbXWLI+uprBzOQL1FdReSFrMfed7U432gkRZvmp3TIYw==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
-              aria-label="Edit this file" data-hotkey="e" data-disable-with>
+              aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/nvsdiego/Cooper_PhoneGap/delete/master/build/lang/pt-br.json" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="68yAwvdPxTbgJKGnW07zaPCst+u1Xdk17q/BALkc2RK6c0IS3BfujP5EDeS82Nl5qdEVuL3WlZ5Ma3+RJVRiNw==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/moodlehq/moodlemobile-phonegapbuild/delete/master/build/lang/pt-br.json" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="SVKgSbOsbAu0baCs8ueEJ3iEX74uFmQ5Jd8Cl76aR9EFQrAF5iISqttE5YYk/zdJ3kkqN6ZyZBGkA50jY85wOw==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-            aria-label="Delete this file" data-disable-with>
+            aria-label="Delete the file in your fork of this project" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
           </button>
 </form>  </div>
@@ -6782,7 +6755,7 @@
       <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2">
         <li><clipboard-copy class="dropdown-item" style="cursor:pointer;" id="js-copy-lines" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
         <li><clipboard-copy class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" href="/nvsdiego/Cooper_PhoneGap/blame/7160cd5292dd12db472a0f0a2e386293dbf61ab2/build/lang/pt-br.json">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" href="/moodlehq/moodlemobile-phonegapbuild/blame/01dd69cf3e2f913d59ef3e3b7781dc1eb6ed351c/build/lang/pt-br.json">View git blame</a></li>
       </ul>
     </div>
   </div>
@@ -6812,7 +6785,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.64088s from unicorn-2559250393-3xmqs">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.59719s from unicorn-2007898790-7nfbb">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
