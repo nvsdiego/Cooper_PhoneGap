@@ -483,7 +483,7 @@
     "mm.core.years": "anos",
     "mm.core.yes": "Sim",
     "mm.course.activitydisabled": "Essa atividade não pode ser acessada através do aplicativo Coopercarga.",
-    "mm.course.activitynotyetviewableremoteaddon": "Sua organização instalou um plugin que não é suportado ainda.",
+    "mm.course.activitynotyetviewableremoteaddon": "Essa atividade não pode ser acessada através do aplicativo Coopercarga.",
     "mm.course.activitynotyetviewablesiteupgradeneeded": "O Moodle de sua organização precisa ser atualizado.",
     "mm.course.allsections": "Todas as seções",
     "mm.course.askadmintosupport": "Para emitir o seu certificado, acesse a plataforma através de um computador ou do navegador do seu celular.",
